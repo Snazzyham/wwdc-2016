@@ -8,6 +8,7 @@ I designed a [replacement icon for sublime](https://dribbble.com/shots/2778110-S
 
 *Special thanks to [this codepen](http://codepen.io/macx/pen/PNaQvX/) for all the colours.*  
 
+It works best with a nice mono typeface, personally I'm excited to give SF Mono a shot, but till then, Roboto Mono it is. 
 
 ## Screenshots  
 **JAVA** 
