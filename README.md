@@ -1,0 +1,23 @@
+# WWDC - 2016 - Sublime 
+
+This is a syntax theme for Sublime. 
+
+It is based off the WWDC 2016 marketing and stuff colour scheme. 
+
+I designed a [replacement icon for sublime](https://dribbble.com/shots/2778110-Sublime-Text-Replacement-Icon-WWDC-2016-Edition) based off the same theme.  
+
+*Special thanks to [this codepen](http://codepen.io/macx/pen/PNaQvX/) for all the colours.*  
+
+
+## Screenshots  
+**JAVA** 
+![](http://puu.sh/pBFY5/1984c929cf.png)  
+
+**HASKELL**  
+![](http://puu.sh/pBG22/7cba8526b5.png)  
+
+**PHP**  
+![](http://puu.sh/pBG6f/d77127c2df.png)  
+
+**JavaScript**  
+![](http://puu.sh/pBGdd/0c63c575f7.png)
