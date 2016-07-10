@@ -1,6 +1,6 @@
-# WWDC - 2016 - Sublime 
+# WWDC - 2016
 
-This is a syntax theme for Sublime. 
+This is a syntax theme for Sublime, and now Vim. I plan to be adding support for Atom in the coming days.  
 
 It is based off the WWDC 2016 marketing and stuff colour scheme. 
 
