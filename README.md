@@ -1,6 +1,8 @@
 # WWDC - 2016
 
-This is a syntax theme for Sublime, and now Vim. I plan to be adding support for Atom in the coming days.  
+This is a syntax theme for Sublime, and now Vim. ~~I plan to be adding support for Atom in the coming days.~~ I have now added an Atom theme as well, which can be installed by copying the `wwwdc-2016-atom` folder and placing it in your atom dotfile directory `~/.atom/packages/`.  
+
+I've also added another syntax for Vi that swaps out the sharp red colour for a lighter pink, for people who find the red too harsh.   
 
 It is based off the WWDC 2016 marketing and stuff colour scheme. 
 
